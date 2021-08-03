@@ -1,2 +1,2 @@
 # izht.github.io
-izht.github.io
+http://izht.github.io
